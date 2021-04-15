@@ -8,3 +8,10 @@
 - Databases
 - Netwrok & Content Delivery
 - Security, Identity & Compliance
+
+## Others
+- Analytics
+- Management and Governance
+- Migration and Transfer
+- Machine Learning
+- Desktop and App Streaming
