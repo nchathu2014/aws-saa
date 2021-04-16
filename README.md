@@ -15,3 +15,9 @@
 - Migration and Transfer
 - Machine Learning
 - Desktop and App Streaming
+
+IAM (Identity and Access Management)
+- User
+- Groups
+- Policies
+- Roles
